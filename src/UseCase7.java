@@ -46,4 +46,3 @@ public class UseCase7 {
 
         scanner.close();
     }
-}
